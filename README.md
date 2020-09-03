@@ -34,10 +34,9 @@
 
 ## For Show Total Contributions.
 
-```md
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-```
+
+<!--START_CONTRIBUTIONS:readme-info-->TRUE
+<!--END_CONTRIBUTIONS:readme-info-->TRUE
 
 ## For Daily Commits Section.
 
