@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Aryan Dokania</h1>
+<h3 align="center">A passionate programmer from India</h3>
+
+- 🌱 I’m currently learning **Android Development with ML**
+- 👯 I’m looking to collaborate on **Android Development**
+- 🤔 I’m looking for help with **ML**
+- 💬 Ask me about **whatever you want!**
+- 🏆 View my android dev daily dose at **https://www.instagram.com/theinsane.programmer/**
+- 📫 How to reach me **aryandokania2001@gmail.com**
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 94 people were here!**
