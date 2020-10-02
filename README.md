@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on **Android Development**
 - 🤔 I’m looking for help with **ML**
 - 💬 Ask me about **whatever you want!**
-- 🏆 View my android dev daily dose at **https://www.instagram.com/theinsane.programmer/**
 - 📫 How to reach me **aryandokania2001@gmail.com**
  
  **My Strength**
