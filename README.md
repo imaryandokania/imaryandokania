@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Dokania</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
+   <img align="middle" src="https://github.com/imaryandokania/imaryandokania/blob/master/The%20insane%20prog-official.png" height=250 width=1200 >
+
+
+
+
 - 🌱 I’m currently learning **Android Development with ML**
 - 👯 I’m looking to collaborate on **Android Development**
 - 🤔 I’m looking for help with **ML**
