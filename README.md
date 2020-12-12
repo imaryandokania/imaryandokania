@@ -37,7 +37,7 @@
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 264 Contributions in year 2020**
+**🏆 268 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -51,10 +51,10 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |31 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.98%|
-|🌆 Daytime                |48 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|24.74%|
-|🌃 Evening                |34 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.53%|
-|🌙 Night                  |81 commits          |![](https://via.placeholder.com/168x22/000000/000000?text=+)![](https://via.placeholder.com/232x22/b8b8b8/b8b8b8?=text=+)|41.75%|
+|🌞 Morning                |31 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.9%|
+|🌆 Daytime                |49 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.13%|
+|🌃 Evening                |34 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.44%|
+|🌙 Night                  |81 commits          |![](https://via.placeholder.com/168x22/000000/000000?text=+)![](https://via.placeholder.com/232x22/b8b8b8/b8b8b8?=text=+)|41.54%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -67,13 +67,13 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |15 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|7.77%|
-|Tuesday                  |13 commits          |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|6.74%|
-|Wednesday                |52 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.94%|
-|Thursday                 |36 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.65%|
-|Friday                   |34 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.62%|
-|Saturday                 |23 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.92%|
-|Sunday                   |20 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.36%|
+|Monday                   |14 commits          |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.22%|
+|Tuesday                  |13 commits          |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|6.7%|
+|Wednesday                |52 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.8%|
+|Thursday                 |36 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.56%|
+|Friday                   |36 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.56%|
+|Saturday                 |23 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.86%|
+|Sunday                   |20 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.31%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -86,10 +86,10 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Java                     |4 repos|             ![](https://via.placeholder.com/200x22/000000/000000?text=+)![](https://via.placeholder.com/200x22/b8b8b8/b8b8b8?=text=+)|50.0%|
-|C++                      |2 repos|             ![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.0%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
-|Shell                    |1 repos|             ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
+|Java                     |5 repos|             ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
+|C++                      |2 repos|             ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.22%|
+|JavaScript               |1 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.11%|
+|Shell                    |1 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|11.11%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
