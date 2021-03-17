@@ -34,7 +34,7 @@
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 99 Contributions in year 2021**
+**🏆 100 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
