@@ -27,14 +27,14 @@
 
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 2.4 million Lines of Code ✍️**
+**From Hello World I have written 2.5 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 111 Contributions in year 2021**
+**🏆 114 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -48,10 +48,10 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |56 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|26.42%|
-|🌆 Daytime                |58 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|27.36%|
-|🌃 Evening                |33 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.57%|
-|🌙 Night                  |65 commits          |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.66%|
+|🌞 Morning                |56 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|26.17%|
+|🌆 Daytime                |58 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|27.1%|
+|🌃 Evening                |35 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.36%|
+|🌙 Night                  |65 commits          |![](https://via.placeholder.com/120x22/000000/000000?text=+)![](https://via.placeholder.com/280x22/b8b8b8/b8b8b8?=text=+)|30.37%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
